@@ -1,0 +1,22 @@
+.img-pos{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.text-center{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color:darkred
+}
+
+body{
+    background: peru;
+}
+
+.text-center-2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: silver;
+}
